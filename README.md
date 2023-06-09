@@ -1,6 +1,6 @@
 ### Hello, hello. I'm David 👋
 
-I'm a 2A Computer Science student at the University of Waterloo, and I'm passionate about everything tech-related. 
+I'm a 3B Computer Science student at the University of Waterloo, and I'm passionate about everything tech-related. 
 
 <!--
 **McHippy3/McHippy3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
